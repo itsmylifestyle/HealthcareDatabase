@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="khan04:Web exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/khan04_Web_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="khan04/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="khan04" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
